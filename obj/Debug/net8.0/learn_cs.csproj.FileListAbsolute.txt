@@ -1,0 +1,15 @@
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\bin\Debug\net8.0\learn_cs.exe
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\bin\Debug\net8.0\learn_cs.deps.json
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\bin\Debug\net8.0\learn_cs.runtimeconfig.json
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\bin\Debug\net8.0\learn_cs.dll
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\bin\Debug\net8.0\learn_cs.pdb
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.AssemblyInfoInputs.cache
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.AssemblyInfo.cs
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.csproj.CoreCompileInputs.cache
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.sourcelink.json
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.dll
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\refint\learn_cs.dll
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.pdb
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\learn_cs.genruntimeconfig.cache
+C:\Users\dragn\OneDrive\Documents\GitHub\learn_cs\obj\Debug\net8.0\ref\learn_cs.dll
